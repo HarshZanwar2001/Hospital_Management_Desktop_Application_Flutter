@@ -1,5 +1,5 @@
 # Hospital Management Desktop Application
-
+![Screenshot 2024-06-20 171655](https://github.com/HarshZanwar2001/Hospital_Management_Desktop_Application_Flutter/assets/103484532/4dff0a1c-5d5d-495c-865e-9d37eb9342c8)
 This is a Hospital Management Desktop Application built using Flutter. This application allows doctors to manage their accounts, register patients, and maintain patient records efficiently.
 
 ## Features
@@ -12,6 +12,7 @@ This is a Hospital Management Desktop Application built using Flutter. This appl
 - **Soft Copy of Prescription**: Soft copies of prescriptions can be shared.
 
 ## Getting Started
+![Uploading Screenshot 2024-06-20 171655.png…]()
 
 ### Prerequisites
 
