@@ -4,12 +4,26 @@ This is a Hospital Management Desktop Application built using Flutter. This appl
 
 ## Features
 
-- **Doctor Registration and Login**: Doctors can register them selves and log into the system.
+- **Doctor Registration and Login**: Doctors can register themselves and log into the system.
 - **Patient Registration**: Doctors can register new patients.
 - **Patient Search**: Doctors can search for patients by their number in the database.
 - **Prescription Management**: Doctors can write prescriptions for patients.
 - **Patient History**: Doctors can view the history of a specific patient, including how many times they have visited the hospital.
 - **Soft Copy of Prescription**: Soft copies of prescriptions can be shared.
+
+
+
+![Screenshot 2024-06-20 171753](https://github.com/HarshZanwar2001/Hospital_Management_Desktop_Application_Flutter/assets/103484532/f43e6446-3afd-40bf-900d-d8a4a2c73610)
+![Screenshot 2024-06-20 171817](https://github.com/HarshZanwar2001/Hospital_Management_Desktop_Application_Flutter/assets/103484532/d959c3e5-086a-4000-985e-a39e9b8bc931)
+
+![Screenshot 2024-06-20 171838](https://github.com/HarshZanwar2001/Hospital_Management_Desktop_Application_Flutter/assets/103484532/fda7c266-c0c5-428d-94eb-bc73f9f59704)
+
+
+![Screenshot 2024-06-20 171901](https://github.com/HarshZanwar2001/Hospital_Management_Desktop_Application_Flutter/assets/103484532/463797e4-80f1-4c24-87f6-33267f2d7f52)
+
+
+
+
 
 ## Getting Started
 ![Uploading Screenshot 2024-06-20 171655.png…]()
