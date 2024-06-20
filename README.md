@@ -38,4 +38,48 @@ This is a Hospital Management Desktop Application built using Flutter. This appl
     ```
 
 ## Directory Structure
+flutter1/
+|- android/
+|- build/
+|- ios/
+|- lib/
+| |- dash_boardpage/
+| | |- login_page.dart
+| |- main.dart
+|- test/
+|- README.md
+|- pubspec.yaml
 
+
+## Usage
+
+### Doctor Registration
+
+Doctors can register by providing the following details:
+- Branch
+- Role
+- Username
+- Phone Number
+- Password
+
+### Doctor Login
+
+Doctors can log in using their username and password.
+
+## Contributions
+
+Contributions are welcome! Please create a pull request to add new features, fix bugs, or improve documentation.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Resources
+
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+
+---
+
+For further help and assistance, feel free to reach out or check the [online documentation](https://docs.flutter.dev/).
